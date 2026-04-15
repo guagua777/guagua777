@@ -12,6 +12,7 @@ Last active: February 2026 | 31 contributions in the last year
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Dubbo-007396?logo=dubbo&logoColor=white" alt="Dubbo"/>
   <img src="https://img.shields.io/badge/Solana-000000?logo=solana&logoColor=white" alt="Solana"/>
+  <img src="https://img.shields.io/badge/-LLVM-000?&logo=llvm&logoColor=white" alt="llvm"/>
 </div>
 
 ### 🌟 Highlight Repositories
