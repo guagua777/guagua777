@@ -1,6 +1,5 @@
 ### 👋 Hi, I'm guagua777
 Focus on **Backend Development** & **Blockchain** & **Low-level Development**
-Last active: February 2026 | 31 contributions in the last year
 
 ### 🛠️ Tech Stack
 <div align="left">
